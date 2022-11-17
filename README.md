@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently developing dApps, attending practicums and courses.
 
-- 📝 I regularly write articles on [sergen.hashnode.dev/](sergen.hashnode.dev/)
+- 📝 I regularly write on [Twitter](https://twitter.com/0xsergen) on [Hashnode](sergen.hashnode.dev/)
 
 - 💻 I run nodes on mainnets and testnets to validate blockchains.
 
 - 💬 Ask me about **js, solidity, react and web3-related (DeFi, NFT, Tokenomics) topics.**
 
-- 📫 How to reach me **https://t.me/sergen0x**
+- 📫 How to reach me: [Twitter](https://twitter.com/0xsergen) or [Telegram](https://t.me/sergen0x)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,12 +1,12 @@
 Hi 👋 My name is Sergen
 =======================
 
-Blockchain Developer
+Blockchain Developer | Technical Writer
 --------------------
 
 Full-stack Blockchain Developer who has experiences on DeFi, NFT, GameFi, oracles, IPFS systems, and tokenomics.
 
-* 🚀  I'm currently working at [Pangolin Exchange](http://pangolin.exchange/)
+* 🚀  I'm currently working at [QuickNode](https://quicknode.com//) as a technical writer.
 * 📝  I regularly write on [my blog](sergen.hashnode.dev/)
 * 🧠  I'm learning Truffle
 * 💬  You can ask me about **js, solidity, and web3-related topics.**
